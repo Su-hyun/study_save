@@ -1,2 +1,13 @@
+- test
+
 #image splite
 [https://jsfiddle.net/wxs8acct/4/]
+
+#list view
+[https://jsfiddle.net/wxs8acct/4/]
+
+#slide
+[https://jsfiddle.net/k2jwd2Lk/]
+
+#paging - angular 1.x
+[http://jsfiddle.net/SAWsA/8650/]
