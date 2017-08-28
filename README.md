@@ -1,4 +1,3 @@
 # study_save
 
-jsfiddle
-
+resource
